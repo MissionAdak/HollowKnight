@@ -20,6 +20,15 @@ The project was undertaken as part of our academic mini project to explore the f
 
 ---
 
+##  Controls
+
+- Arrow keys: Move the character
+- Space: Jump
+- Z: Attack
+- ESC: Pause/Menu
+
+---
+
 ## 🛠️ Technologies Used  
 
 | Category            | Tools Used             |
@@ -156,12 +165,6 @@ Final GitHub commited by Mission Adak
 
 ---
 
-## Controls
-
-- Arrow keys: Move the character
-- Space: Jump
-- Z: Attack
-- ESC: Pause/Menu
 
 ## Development
 
