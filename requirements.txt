@@ -1,2 +1,5 @@
 pygame-ce==2.3.1
+(make sure while running the code , uninstall pygame then install pygame-ce , or else it will create collisions if both pygame library is installed)
+Note :- pygame-ce is nothing but advanced version(Community Edition) of pygame , hence both are pygame but pygame-ce have some changes.
 pytmx==3.32
+
